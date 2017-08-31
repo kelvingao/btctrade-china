@@ -1,0 +1,29 @@
+{
+  "name": "btctrade-china",
+  "version": "0.1.0",
+  "description": "BtcTrade REST API wrapper",
+  "keywords": [
+    "btctrade",
+    "btc",
+    "bitcoin"
+  ],
+  "author": "Kelvin Gao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelvingao/btctrade-china"
+  },
+  "main": "btctrade-china.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "nonce": "^1.0.4",
+    "request": "~2.81.0",
+    "underscore": "^1.8.3",
+    "verror": "~1.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kelvingao/btctrade-china/issues",
+    "email": "89156201@qq.com"
+  },
+  "readmeFilename": "README.md"
+}
